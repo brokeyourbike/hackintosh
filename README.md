@@ -10,7 +10,7 @@ GPU | Intel UHD Graphics 630
 Motherboard | [Z370-A-PRO](https://www.msi.com/Motherboard/Z370-A-PRO/Specification)
 Memory | 16GB
 Storage | Samsung
-Power Supply | [A-90](https://www.chieftec.eu/products-detail/109/A-90-SERIES/112/GDP-750C)
+Power Supply | [CHIEFTEC A-90](https://www.chieftec.eu/products-detail/109/A-90-SERIES/112/GDP-750C)
 
 ## Installation
 
