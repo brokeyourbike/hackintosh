@@ -14,7 +14,7 @@ Power Supply | [CHIEFTEC A-90](https://www.chieftec.eu/products-detail/109/A-90-
 
 ## Installation
 
-### BIOS Settings
+### BIOS Settings (version 7B48v2C)
 
 Enter **Advanced Mode** and **Load Optimized Defaults** to reset the default BIOS settings. Modify the following settings (may vary depending on motherboard model and BIOS version):
 
