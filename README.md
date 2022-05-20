@@ -8,7 +8,7 @@ Type | Value
 CPU | Intel i7-8700 (12) @ 3.20GHz
 GPU | Intel UHD Graphics 630
 Motherboard | [Z370-A-PRO](https://www.msi.com/Motherboard/Z370-A-PRO/Specification)
-Memory | Kingston HyperX Black 8GB 3200MHz DDR4 x 2
+Memory | Kingston HyperX 8GB 2400MHz DDR4 x 2
 Storage | [Samsung 860 PRO](https://semiconductor.samsung.com/consumer-storage/internal-ssd/860pro/)
 Power Supply | [CHIEFTEC A-90](https://www.chieftec.eu/products-detail/109/A-90-SERIES/112/GDP-750C)
 
