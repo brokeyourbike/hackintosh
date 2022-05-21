@@ -10,7 +10,7 @@ on:
       - '**.md'
 jobs:
   test-and-cover:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
