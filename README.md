@@ -12,7 +12,7 @@ Type | Value
 CPU | Intel i7-8700 (12) @ 3.20GHz
 GPU | Intel UHD Graphics 630
 Motherboard | [Z370-A-PRO](https://www.msi.com/Motherboard/Z370-A-PRO/Specification)
-Memory | 16GB (2 x 8GB) Kingston HyperX 8GB @ 2400MHz
+Memory | 16GB (2 x 8GB) Kingston HyperX @ 2400MHz
 Storage | [Samsung 860 PRO](https://semiconductor.samsung.com/consumer-storage/internal-ssd/860pro/)
 Audio | Realtek ALC892
 Ethernet | Realtek RTL8111
