@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: brokeyourbike/ocvalidate-action@v0
+      - uses: brokeyourbike/ocvalidate-action@v0.1
         with:
           opencore-version: '0.8.0'
 
