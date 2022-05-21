@@ -18,4 +18,4 @@ jobs:
         with:
           opencore-version: '0.8.0'
 
-      - run: sudo ocvalidate ./EFI/OC/config.plist | grep -q 'No issues found'
+      - run: ocvalidate ./EFI/OC/config.plist | grep -q 'No issues found'
