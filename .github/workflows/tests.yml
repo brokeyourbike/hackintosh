@@ -10,13 +10,13 @@ on:
       - '**.md'
 jobs:
   test-and-cover:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
       - uses: brokeyourbike/ocvalidate-action@v0.2
         with:
-          opencore-version: 'latest'
+          opencore-version: '0.8.0'
           release: true
 
       - run: ocvalidate ./EFI/OC/config.plist | grep -q 'No issues found'
