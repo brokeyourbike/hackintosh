@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.1](https://www.github.com/brokeyourbike/hackintosh/compare/v0.1.0...v0.1.1) (2022-05-22)
+
+
+### Bug Fixes
+
+* reset `UIScale` ([36809a6](https://www.github.com/brokeyourbike/hackintosh/commit/36809a6ab5a861ef21404498864f7eabebc0d525))
+
 ## 0.1.0 (2022-05-20)
 
 
