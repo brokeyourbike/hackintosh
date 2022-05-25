@@ -3,7 +3,7 @@
 [![Latest Version](https://img.shields.io/github/v/release/brokeyourbike/hackintosh)](https://github.com/brokeyourbike/hackintosh/releases)
 [![tests](https://github.com/brokeyourbike/hackintosh/actions/workflows/tests.yml/badge.svg)](https://github.com/brokeyourbike/hackintosh/actions/workflows/tests.yml)
 
-Hackintosh (i7-8700 + iGPU) - OpenCore 0.8.0 + Kexts + BIOS - macOS 12.3.1 (Monterey) 
+Hackintosh (i7-8700 + iGPU) - OpenCore 0.8.0 + Kexts + BIOS - macOS 12.4 (Monterey) 
 
 ## Hardware
 
