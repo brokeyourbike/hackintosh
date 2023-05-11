@@ -9,7 +9,7 @@ on:
     paths-ignore:
       - '**.md'
 jobs:
-  test-and-cover:
+  ocvalidate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
