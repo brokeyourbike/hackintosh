@@ -3,11 +3,11 @@ on:
   push:
     branches:
       - main
-    paths-ignore:
-      - '**.md'
+    paths:
+      - EFI/**
   pull_request:
-    paths-ignore:
-      - '**.md'
+    paths:
+      - EFI/**
 jobs:
   ocvalidate:
     runs-on: ubuntu-latest
