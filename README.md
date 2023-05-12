@@ -29,4 +29,4 @@ Enter **Advanced Mode** and **Load Optimized Defaults** to reset the default BIO
 I performed the installation with the USB drive, keyboard, and mouse plugged into the USB 2.0 ports at the bottom of the motherboard. My display was connected to motherboard with DVI.
 
 ## Authors
-- [Ivan Stasiuk](https://github.com/brokeyourbike) | [Twitter](https://twitter.com/brokeyourbike) | [stasi.uk](https://stasi.uk)
+- [Ivan Stasiuk](https://github.com/brokeyourbike) | [Twitter](https://twitter.com/brokeyourbike) | [LinkedIn](https://www.linkedin.com/in/brokeyourbike) | [stasi.uk](https://stasi.uk)
