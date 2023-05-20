@@ -19,4 +19,4 @@ jobs:
           opencore-version: '0.8.0'
           release: true
 
-      - run: ocvalidate ./EFI/OC/config.plist
+      - run: ocvalidate EFI/OC/config.plist
